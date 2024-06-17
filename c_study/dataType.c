@@ -26,7 +26,7 @@ int main(){
     // bit 연산자
     // | 는 비트 합, 둘중 하나라도 1이면 1
     // & 는 비트 곱, 둘다 1이면 1
-    // ^ 둘중 하나라도 1이면 1
+    // ^ 둘이 같으면 0
     unsigned int status = 0;
 
     status |= STATUS_ON;    
