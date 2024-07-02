@@ -13,7 +13,7 @@ EXED = ./src
 
 EXES = $(EXED)/shop.o \
 		$(EXED)/sample/shop_sample_base.o \
-
+		
 
 all: $(EXEC)
 
